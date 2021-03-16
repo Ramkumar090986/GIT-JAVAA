@@ -5,6 +5,8 @@ public class Smile {
 		System.out.println("GIT ractice");
 		
 		System.out.println("code for SG1");
+		System.out.println("SG2 code");
+	
 	}
 
 }
